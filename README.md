@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Learning advanced Flutter and Firebase techniques**
 
-- 📫 How to reach me **ramiqfn@gmail.com**
+- 📫 How to reach me **ramiqwaqas@gmail.com**
 
 - ⚡ Fun fact, **I play games and along that i am participate in basketball tourney's**
 
