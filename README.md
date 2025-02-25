@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ramiqwaqas@gmail.com**
 
-- ⚡ Fun fact, **I play games and along that i am participate in basketball tourney's**
+- ⚡ Fun fact, **I play games and along that i participate in basketball tournaments**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
