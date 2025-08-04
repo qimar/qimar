@@ -14,7 +14,9 @@
  
  👯 I’m looking to collaborate on **Remote Flutter Mobile App Development Projects**
 
- 🌱 I’m currently learning **Javascript** and sharpening myself in **Python**
+ 🌱 I’m currently learning **Javascript**
+
+ 🌱 I’m currently learning **Python**
 
  ⚡ Fun Fact **[Box Jellyfish](https://en.wikipedia.org/wiki/Box_jellyfish) possess at least 24 functional eyes (of various degree) on its body despite having no centralized brain.**
 
@@ -68,9 +70,5 @@
 <hr/>
 
 <br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
 
 <br/>
