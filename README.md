@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ramiq</h1>
-<h3 align="center">A passionate developer from Pakistan</h3>
+<h3 align="center">A passionate Flutter developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qimar&label=Profile%20views&color=0e75b6&style=flat" alt="qimar" /> </p>
 
-- 🔭 I’m currently working on my app called [Sleeply](https://play.google.com/store/apps/details?id=com.sleeply.app)
+- 🔭 I currently made a Flutter Mobile Application and published it on Google Play Store called [Sleeply](https://play.google.com/store/apps/details?id=com.sleeply.app)
+
+- 👯 I’m looking to collaborate on **Remote Flutter Mobile App Development Projects**
 
 - 🌱 I’m currently learning **Python, Javascript**
-
-- 👯 I’m looking to collaborate on **Flutter app development projects**
-
-- 🤝 I’m looking for help with **Learning advanced Flutter and Firebase techniques**
 
 - 📫 How to reach me **ramiqwaqas@gmail.com**
 
