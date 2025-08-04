@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ramiqwaqas@gmail.com**
 
-- ⚡ Fun fact, **I play games and along that i participate in basketball tournaments**
+- ⚡ Fun fact, **[Box Jellyfish](https://en.wikipedia.org/wiki/Box_jellyfish) possess at least 24 functional eyes (of various degree) on its body despite having no centralized brain.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
