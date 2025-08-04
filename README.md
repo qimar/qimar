@@ -12,11 +12,11 @@
  
  🔭 I currently made a Flutter Mobile Application and published it on Google Play Store called [Sleeply](https://play.google.com/store/apps/details?id=com.sleeply.app)
  
- 👯 I’m looking to collaborate on **Remote Flutter Mobile App Development Projects**
+ 👀 I’m looking to collaborate on **Remote Flutter Mobile App Development Projects**
 
- 🌱 I’m currently learning **Javascript**
+ 📜 I’m currently learning **Javascript**
 
- 🌱 I’m currently learning **Python**
+ 🐍 I’m currently sharpening my skill in **Python**
 
  ⚡ Fun Fact **[Box Jellyfish](https://en.wikipedia.org/wiki/Box_jellyfish) possess at least 24 functional eyes (of various degree) on its body despite having no centralized brain.**
 
