@@ -2,8 +2,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,py,js," />
-    <img src="https://skillicons.dev/icons?i=figma,robloxstudio,vscode,github," /><br>
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,py,js,java,kotlin,swift,vscode,figma" />
 </div>
 
 <br/>
