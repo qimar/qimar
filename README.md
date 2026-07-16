@@ -1,6 +1,5 @@
-   <h2 align="center">🐍 My Contributions 🐍</h2>
-  <br>
-  <img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/qimar/qimar/output/github-contribution-grid-snake.svg" />
+ 
+ <img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/qimar/qimar/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
